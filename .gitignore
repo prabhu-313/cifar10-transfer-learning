@@ -1,0 +1,32 @@
+# Ignore Python bytecode / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore Colab checkpoints
+.ipynb_checkpoints/
+
+# Ignore Colab temporary files
+*.ipynb~ 
+*.tmp
+*.log
+
+# Ignore environment / dependency folders
+env/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore everything else by default
+*
+
+# Track only these
+!*.ipynb         # Your notebooks
+!*.h5            # Your models
+!dataset/        # Dataset folder
