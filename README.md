@@ -1,4 +1,4 @@
-**CIFAR-10 Image Classification using Transfer Learning**
+#CIFAR-10 Image Classification using Transfer Learning
 
 Comparative analysis of VGG16, ResNet50, and MobileNetV2 architectures for CIFAR-10 image classification using transfer learning with pre-trained ImageNet weights.
 
