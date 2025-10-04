@@ -1,4 +1,4 @@
-CIFAR-10 Image Classification using Transfer Learning
+**CIFAR-10 Image Classification using Transfer Learning**
 
 Comparative analysis of VGG16, ResNet50, and MobileNetV2 architectures for CIFAR-10 image classification using transfer learning with pre-trained ImageNet weights.
 
@@ -23,6 +23,7 @@ This project implements and compares three state-of-the-art CNN architectures (V
 - Model checkpointing and early stopping
 
 ## 🛠️ Requirements
+See [requirements.txt](requirements.txt) for dependencies.
 
 ```
 tensorflow>=2.19.0
@@ -198,7 +199,7 @@ If you use this code for your research, please cite:
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the [MIT License](LICENSE).
 
 ## 👤 Author
 
